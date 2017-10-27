@@ -1,4 +1,5 @@
 # TTMenu
+[![CocoaPods](https://img.shields.io/cocoapods/v/TTMenu.svg)]()
 # 模仿微信右上角展开菜单
 ## Installation
 ### CocoaPods
